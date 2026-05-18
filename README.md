@@ -55,4 +55,4 @@
 ## 作者
 - 生物科學系背景，對生醫資料分析有濃厚興趣
 - 曾以第二作者發表生理學相關論文
-- GitHub: [你的GitHub連結]
+- GitHub: [(https://github.com/Linziyan2024)]
